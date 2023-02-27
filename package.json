@@ -1,0 +1,28 @@
+{
+  "name": "calling-the-openai-api-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dabblelab/calling-the-openai-api-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dabblelab/calling-the-openai-api-node/issues"
+  },
+  "homepage": "https://github.com/dabblelab/calling-the-openai-api-node#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.20.2",
+    "bulma": "^0.9.4",
+    "express": "^4.18.2",
+    "openai": "^3.1.0",
+    "react": "^18.2.0"
+  }
+}

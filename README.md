@@ -1,1 +1,1 @@
-# WebAppAI
+Hey this was a fun project of mine, using ExpressJs and OpenAI API to write you a fun message.
